@@ -1,6 +1,16 @@
 # face-detection
 Smart India Hackathon 2020:
 
-Uses realtime webcam feed data to measure attentiveness of a user in online classes by checking for yawning and talking, ie, measuring how much the mouth opens and closes.
+Uses realtime webcam feed data to measure attentiveness of a user in online classes.
 
-Uses dlib facial recognition, Python and basic OpenCV to plot the 68 facial landmarks and develop functions to measure the extent of the user's mouth opening.
+TensorflowJS is used to draw facial landmarks and check:
+- if user is looking left or right
+- if user's mouth is open or closed
+- if user's eyes are drowsy or not 
+
+
+
+
+
+
+
