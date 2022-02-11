@@ -1,1 +1,6 @@
-Detects if mouth is open or closed with the use of facial landmarks
+# face-detection
+Smart India Hackathon 2020:
+
+Uses realtime webcam feed data to measure attentiveness of a user in online classes by checking for yawning and talking, ie, measuring how much the mouth opens and closes.
+
+Uses dlib facial recognition, Python and basic OpenCV to plot the 68 facial landmarks and develop functions to measure the extent of the user's mouth opening.
