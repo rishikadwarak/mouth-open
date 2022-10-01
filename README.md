@@ -1,4 +1,4 @@
-# mouth-open
+# Mouth Open Checker
 Smart India Hackathon 2020:
 
 Uses realtime webcam feed data to measure attentiveness of a user in online classes by checking for yawning and talking, ie, measuring how much the mouth opens and closes.
