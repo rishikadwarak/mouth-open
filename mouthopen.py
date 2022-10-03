@@ -3,10 +3,10 @@
 
 # In[ ]:
 
-import cv2
+
 import dlib
 import numpy as np
-
+import cv2
 
 PREDICTOR_PATH = "shape_predictor_68_face_landmarks.dat"
 predictor = dlib.shape_predictor(PREDICTOR_PATH)
